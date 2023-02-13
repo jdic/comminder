@@ -1,5 +1,5 @@
 {
-  "name": "cominder",
+  "name": "comminder",
   "version": "1.0.1",
   "description": "macOS commands on Windows",
   "bin": {
