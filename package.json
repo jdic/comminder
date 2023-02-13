@@ -1,0 +1,17 @@
+{
+  "name": "cominder",
+  "version": "1.0.0",
+  "description": "macOS commands on Windows",
+  "bin": {
+    "touch": "./bin/touch",
+    "rm": "./bin/rm",
+    "ls": "./bin/ls",
+    "mv": "./bin/mv",
+    "pwd": "./bin/pwd"
+  },
+  "author": "JMota (jdic)",
+  "dependencies": {
+    "colors": "^1.4.0",
+    "commander": "^10.0.0"
+  }
+}
