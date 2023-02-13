@@ -1,17 +1,27 @@
 {
   "name": "cominder",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "macOS commands on Windows",
   "bin": {
-    "touch": "./bin/touch",
-    "rm": "./bin/rm",
-    "ls": "./bin/ls",
-    "mv": "./bin/mv",
-    "pwd": "./bin/pwd"
+    "touch": "bin/touch",
+    "rm": "bin/rm",
+    "ls": "bin/ls",
+    "mv": "bin/mv",
+    "pwd": "bin/pwd"
   },
   "author": "JMota (jdic)",
   "dependencies": {
     "colors": "^1.4.0",
     "commander": "^10.0.0"
-  }
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jdic/cominder.git"
+  },
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jdic/cominder/issues"
+  },
+  "homepage": "https://github.com/jdic/cominder#readme"
 }
