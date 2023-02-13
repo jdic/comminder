@@ -1,6 +1,6 @@
 {
   "name": "comminder",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "macOS commands on Windows",
   "bin": {
     "touch": "bin/touch",
@@ -17,11 +17,11 @@
   "devDependencies": {},
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/jdic/cominder.git"
+    "url": "git+https://github.com/jdic/comminder.git"
   },
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/jdic/cominder/issues"
+    "url": "https://github.com/jdic/comminder/issues"
   },
-  "homepage": "https://github.com/jdic/cominder#readme"
+  "homepage": "https://github.com/jdic/comminder#readme"
 }
